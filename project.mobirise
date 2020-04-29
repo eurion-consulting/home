@@ -427,7 +427,7 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "button": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "form": {
-            "action": "daniel.velev@gmail.com",
+            "action": "daniel.velev@eurion.consulting",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
