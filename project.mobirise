@@ -147,19 +147,19 @@
           },
           "title1": "Outsource",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Get a skilled dev or entire team for your business<br>Get a skilled dev or entire team for your business<br>Get a skilled dev or entire team for your business<br>Get a skilled dev or entire team for your business<br>",
           "title2": "Recruitment",
           "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "caption2": "Find the proper people for your needs<br>Find the proper people for your needs<br>Find the proper people for your needs<br>Find the proper people for your needs<br>",
           "title3": "Development",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "proof of concept or get a quote for your idea.<br>proof of concept or get a quote for your idea.<br>proof of concept or get a quote for your idea.<br>proof of concept or get a quote for your idea.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -366,7 +366,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EURION CONSULTING</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures5-p\">FOR COMPANIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-4\">FOR DEVELOPERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\">FOR RECRUITERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures5-p\">FOR COMPANIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader4-q\">FOR DEVELOPERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader2-r\">FOR RECRUITERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"request.html\">CONTACT US</a></li>"
         },
         {
           "_params": {
@@ -549,7 +549,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>9705, Makedonia Str<br>\nShumen, Bulgaria",
-          "text2": "<strong>Contacts</strong><br>\nEmail: contact@eurion.consulting<br>\nPhone: +359 (89) 66 056 55<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail:<br>daniel.velev@eurion.consulting<br>\nPhone: +359 (89) 66 056 55<br><br>",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"http://www.eurion.consulting\">Member Area</a><a href=\"http://abv.bg\"></a><br>\n<a href=\"http://www.eurion.consulting\">LinkedIn Profile</a><a href=\"http://www.eurion.consulting\"></a><br>\n<a href=\"http://www.eurion.consulting\">Facebook Page</a></p>"
         },
         {
@@ -640,7 +640,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EURION CONSULTING</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures5-p\">FOR COMPANIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-4\">FOR DEVELOPERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\">FOR RECRUITERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures5-p\">FOR COMPANIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader4-q\">FOR DEVELOPERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader2-r\">FOR RECRUITERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"request.html\">CONTACT US</a></li>"
         }
       ]
     },
@@ -759,7 +759,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>9705, Makedonia Str<br>\nShumen, Bulgaria",
-          "text2": "<strong>Contacts</strong><br>\nEmail: contact@eurion.consulting<br>\nPhone: +359 (89) 66 056 55<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail:<br>daniel.velev@eurion.consulting<br>\nPhone: +359 (89) 66 056 55<br><br>",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"http://www.eurion.consulting\">Member Area</a><a href=\"http://abv.bg\"></a><br>\n<a href=\"http://www.eurion.consulting\">LinkedIn Profile</a><a href=\"http://www.eurion.consulting\"></a><br>\n<a href=\"http://www.eurion.consulting\">Facebook Page</a></p>"
         },
         {
@@ -850,7 +850,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EURION CONSULTING</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures5-p\">FOR COMPANIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-4\">FOR DEVELOPERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\">FOR RECRUITERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures5-p\">FOR COMPANIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader4-q\">FOR DEVELOPERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader2-r\">FOR RECRUITERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"request.html\">CONTACT US</a></li>"
         }
       ]
     },
@@ -886,10 +886,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Request a Project",
-          "subtitle": "If you are&nbsp;looking for dedicated&nbsp;teams and respect our values, <br>we are happy to cooperate.",
+          "title": "Contact Us",
+          "subtitle": "If you have need for programmers, idea to realize or just a question, you are welcome",
           "form": {
-            "action": "daniel.velev@gmail.com",
+            "action": "daniel.velev@eurion.consulting",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -915,7 +915,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">POST A PROJECT</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUMBIT</a>"
         },
         {
           "_name": "footer1",
@@ -969,7 +969,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>9705, Makedonia Str<br>\nShumen, Bulgaria",
-          "text2": "<strong>Contacts</strong><br>\nEmail: contact@eurion.consulting<br>\nPhone: +359 (89) 66 056 55<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail:<br>daniel.velev@eurion.consulting<br>\nPhone: +359 (89) 66 056 55<br><br>",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"http://www.eurion.consulting\">Member Area</a><a href=\"http://abv.bg\"></a><br>\n<a href=\"http://www.eurion.consulting\">LinkedIn Profile</a><a href=\"http://www.eurion.consulting\"></a><br>\n<a href=\"http://www.eurion.consulting\">Facebook Page</a></p>"
         },
         {
@@ -1060,7 +1060,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EURION CONSULTING</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures5-p\">FOR COMPANIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-4\">FOR DEVELOPERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-m\">FOR RECRUITERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"subscribe.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures5-p\">FOR COMPANIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader4-q\">FOR DEVELOPERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader2-r\">FOR RECRUITERS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"request.html\">CONTACT US</a></li>"
         }
       ]
     }
